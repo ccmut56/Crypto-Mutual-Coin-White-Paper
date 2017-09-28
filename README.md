@@ -1,5 +1,7 @@
 # Crypto-Mutual-Coin-White-Paper
 
+Presale ETHEREUM deposit address:0xf77fca38ee9e08eb806b48e25ab1b1e5f3251cef
+
 CRYPTO MUTUAL COIN (CCMC)
 The purpose of ccmc is to bring the concept of a mutual fund in main stream investments to the crypto economy. The concept of a mutual fund is a group of investors come together and mutually fund a company or companies providing a less riskier investment, by taking the risk of single company investments and spreading it out over multiple companies and investors. So not only does it advert risk but also works to further stabilize the economy on a whole. By creating a large fund that capitalizes on the growth of the market but is also slow moving in terms of turnover. We want CCMC to be a safe place for new persons entering the crypto space to learn, grow, and invest. As well as a place for seasoned traders and investors to store and generate wealth.
  How does this translate to the crypto investment and how do we do this in a decentralized way that is the question we plan to answer and solve with CCMC.
