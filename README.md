@@ -4,7 +4,7 @@ CRYPTO MUTUAL COIN (CCMC)
 
 We are operating on the Waves platform with active sell orders on Dex. 
 Dex id: DhGEJ4c4zsJK2jhefBf7eSJBiY67TBiz92ZA18ej5nWD  
-You can participate in our presale by purchasing Crypto Mutual Coin on Dex through the Waves client. Or by sending Ether or Waves to the address listed on our site. After sending Ether or waves to the addresses listed on our site please email us with transaction details and your Waves wallet address if it differs to receive your coins.
+You can participate in our presale by purchasing Crypto Mutual Coin on Dex through the Waves client. Or by sending Waves to the address listed on our site. After sending waves to the addresses listed on our site please email us with transaction details and your Waves wallet address if it differs to receive your coins.
 Please visit https://cryptomc.com to find contribution addresses and contact info
 All funds raised in pre-Ico sale will be used to finish out team build and be used for operating expenses till next round Q1 2018. We also will use a portion of the funds to promote our upcoming Ico.
 Round 1 pre-Ico sale goal is $150,000 and will be caped at $4,000,000
